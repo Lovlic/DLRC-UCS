@@ -1,0 +1,1 @@
+You can download ResNet-50 pre-trained features of Office-31, Office-Home and ImageCLEF in https://github.com/jindongwang/transferlearning/tree/master/data (including the original images).

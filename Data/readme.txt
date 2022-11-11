@@ -1,0 +1,1 @@
+You can run the "train_test_split.py" file to get the train set and test set of A_W, Ar_Cl and C_I.
